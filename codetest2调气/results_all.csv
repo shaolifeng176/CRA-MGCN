@@ -1,0 +1,15 @@
+Fold 0,Type,TN,FP,FN,TP,Accuracy,Recall,Precision,F1,AUC
+Fold 0,Train,102,0,0,102,1.0,1.0,1.0,1.0,1.0
+Fold 0,Test,26,0,0,26,1.0,1.0,1.0,1.0,1.0
+Fold 1,Type,TN,FP,FN,TP,Accuracy,Recall,Precision,F1,AUC
+Fold 1,Train,102,0,0,103,1.0,1.0,1.0,1.0,1.0
+Fold 1,Test,26,0,2,23,0.9607843137254902,0.92,1.0,0.9583333333333334,0.96
+Fold 2,Type,TN,FP,FN,TP,Accuracy,Recall,Precision,F1,AUC
+Fold 2,Train,106,0,0,99,1.0,1.0,1.0,1.0,1.0
+Fold 2,Test,22,0,2,27,0.9607843137254902,0.9310344827586207,1.0,0.9642857142857143,0.9655172413793103
+Fold 3,Type,TN,FP,FN,TP,Accuracy,Recall,Precision,F1,AUC
+Fold 3,Train,103,0,2,100,0.9902439024390244,0.9803921568627451,1.0,0.99009900990099,0.9901960784313726
+Fold 3,Test,25,0,0,26,1.0,1.0,1.0,1.0,1.0
+Fold 4,Type,TN,FP,FN,TP,Accuracy,Recall,Precision,F1,AUC
+Fold 4,Train,99,0,0,106,1.0,1.0,1.0,1.0,1.0
+Fold 4,Test,29,0,0,22,1.0,1.0,1.0,1.0,1.0
